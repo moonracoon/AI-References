@@ -1,0 +1,32 @@
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg
+*.ico
+*.bmp
+*.tiff
+*.psd
+*.ai
+
+# Video
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wmv
+
+# Audio
+*.mp3
+*.wav
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep folder structure (empty dirs need a .gitkeep)
+!.gitkeep
