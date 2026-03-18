@@ -10,7 +10,7 @@ Design Repository/
 ├── Websites/
 │   └── [Company Name]/
 │       ├── Screenshots/   — Static UI captures (.png, .jpg)
-│       ├── Video/         — Screen recordings of interactions (.mp4, .mov)
+│       ├── Video/         — Screen recordings of interactions (.mp4, .mov) — local only, not committed
 │       └── notes.md       — Observations, tags, and reference links
 ├── Apps/
 ├── Print/
@@ -83,3 +83,4 @@ Use these tags in `notes.md` files for easy searching:
 | Dovetail       | SaaS, Research        | *(in progress)*                         |
 | Linear         | SaaS, Productivity    | *(in progress)*                         |
 | ROX            | Business, Technology  | `#dark` `#motion` `#scroll-effects`     |
+| Integrated Bio | Technology, Health    | `#light` `#motion` `#scroll-effects`    |
