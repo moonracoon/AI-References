@@ -83,4 +83,3 @@ Use these tags in `notes.md` files for easy searching:
 | Dovetail       | SaaS, Research        | *(in progress)*                         |
 | Linear         | SaaS, Productivity    | *(in progress)*                         |
 | ROX            | Business, Technology  | `#dark` `#motion` `#scroll-effects`     |
-| EA Management  | Agency                | *(in progress)*                         |
