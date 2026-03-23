@@ -84,3 +84,7 @@ Use these tags in `notes.md` files for easy searching:
 | Linear         | SaaS, Productivity    | *(in progress)*                         |
 | ROX            | Business, Technology  | `#dark` `#motion` `#scroll-effects`     |
 | Integrated Bio | Technology, Health    | `#light` `#motion` `#scroll-effects`    |
+| Swap           | Business, Finance     | `#light` `#illustration`                |
+| Squarespace    | Business, Technology  | `#3d` `#black-and-white`                |
+| GitBook        | Technology            | `#light` `#minimal`                     |
+| Oryzo AI       | Product, Brochure Website | `#3d` `#interactive` `#vibrant` `#modern` |
